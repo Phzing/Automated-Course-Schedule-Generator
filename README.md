@@ -1,5 +1,5 @@
 # Automated-Course-Schedule-Generator
-A tool that allows students to quickly generate all possible configurations of schedules with their courses of interest. Includes features such as time blocking and schedule saving for future reference. 
+A tool that allows students to quickly generate all possible configurations of schedules with their courses of interest. Includes features such as time-blocking and saving schedules for future reference, allowing users to easily generate personalized schedules and compare their favorites. 
 
 Project stack uses Python, JavaScript, Node.JS, MongoDB, HTML, and CSS.
 
